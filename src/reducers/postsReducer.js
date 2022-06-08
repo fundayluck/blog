@@ -1,3 +1,4 @@
 export default () => {
-  return 123;
+  // error if return 'undefined'
+  return [];
 };
